@@ -5,12 +5,18 @@
   "dependencies": {
     "axios": "^0.18.1",
     "codemirror": "^5.42.2",
+    "eslint-utils": "^1.4.3",
+    "handlebars": "^4.5.3",
+    "js-yaml": "^3.13.1",
+    "lodash": "^4.17.15",
+    "mixin-deep": "^2.0.1",
     "pusher-js": "^4.3.1",
     "pushid": "^1.0.0",
     "react": "^16.7.0",
     "react-codemirror2": "^5.1.0",
     "react-dom": "^16.7.0",
-    "react-scripts": "^2.1.8"
+    "react-scripts": "^2.1.8",
+    "set-value": "^3.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
